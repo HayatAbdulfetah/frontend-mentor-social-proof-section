@@ -4,7 +4,8 @@ This is my solution to the **Social Proof Section** challenge from Frontend Ment
 
 ## 📸 Screenshot
 
-![Project Screenshot](./screenshot/desktop-view.png)
+![Desktop Screenshot](./screenshots/desktop-view.png)
+![Mobile Screenshot](./screenshots/mobile-view.png)
 
 ## 🔗 Links
 
