@@ -5,8 +5,8 @@ This is my solution to the **Social Proof Section** challenge from Frontend Ment
 ## 📸 Screenshot
 
 <p float="left">
-  <img src="./screenshots/desktop-view.png" width="300" />
-  <img src="./screenshots/mobile-view.png" width="300" />
+  <img src="./screenshots/desktop-view.png" width="500" />
+  <img src="./screenshots/mobile-view.png" width="300" height="700" />
 </p>
 
 ![Desktop Screenshot](./screenshots/desktop-view.png)
@@ -14,7 +14,7 @@ This is my solution to the **Social Proof Section** challenge from Frontend Ment
 
 ## 🔗 Links
 
-- **Solution URL:** *#*
+- **Solution URL:** *https://www.frontendmentor.io/solutions/creating-responsive-designs-with-media-queries-tyVT9P9Fh2*
 - **Live Site URL:** *https://hayatabdulfetah.github.io/frontend-mentor-social-proof-section/*
 
 ## 🛠️ Built With
