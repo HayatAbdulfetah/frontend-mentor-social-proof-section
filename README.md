@@ -4,8 +4,7 @@ This is my solution to the **Social Proof Section** challenge from Frontend Ment
 
 ## 📸 Screenshot
 
-![Desktop Screenshot]
-<p float="left">
+<p float="center">
   <img src="./screenshots/desktop-view.png" width="500" />
 </p>
 
