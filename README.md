@@ -4,12 +4,12 @@ This is my solution to the **Social Proof Section** challenge from Frontend Ment
 
 ## 📸 Screenshot
 
-![Project Screenshot](./design/desktop-preview.jpg)
+![Project Screenshot](./screenshot/desktop-view.png)
 
 ## 🔗 Links
 
-- **Solution URL:** *./screenshot/desktop-view.png*
-- **Live Site URL:** *./screenshot/mobile-view.png*
+- **Solution URL:** *#*
+- **Live Site URL:** *https://hayatabdulfetah.github.io/frontend-mentor-social-proof-section/*
 
 ## 🛠️ Built With
 
