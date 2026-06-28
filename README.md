@@ -4,13 +4,11 @@ This is my solution to the **Social Proof Section** challenge from Frontend Ment
 
 ## 📸 Screenshot
 
+![Desktop Screenshot]
 <p float="left">
   <img src="./screenshots/desktop-view.png" width="500" />
-  <img src="./screenshots/mobile-view.png" width="300" height="700" />
 </p>
 
-![Desktop Screenshot](./screenshots/desktop-view.png)
-![Mobile Screenshot](./screenshots/mobile-view.png)
 
 ## 🔗 Links
 
